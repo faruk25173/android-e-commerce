@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/buttons.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_baseline_add_comment_24.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_menu_camera.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_person_add.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/ic_search.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/input_design.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/drawable/side_nav_bar.xml" value="0.18541666666666667" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_add_new_category.xml" value="0.22" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_add_new_product.xml" value="0.16203703703703703" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_add_new_products.xml" value="0.33" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_cat.xml" value="0.1175925925925926" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_category.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_new_orders.xml" value="0.12239583333333333" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_admin_user_products.xml" value="0.12239583333333333" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_cart.xml" value="0.12239583333333333" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.12239583333333333" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_login.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_main.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_product_details.xml" value="0.16111111111111112" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_register.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_search_products.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/activity_settins.xml" value="0.16111111111111112" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/admin_add_cat.xml" value="0.1175925925925926" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/admin_cat_layout.xml" value="0.1175925925925926" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/cart_items_layout.xml" value="0.16203703703703703" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/category_items_layout.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/content.xml" value="0.16203703703703703" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/content_category.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/content_product.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/header.xml" value="0.16203703703703703" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/orders_layout.xml" value="0.16927083333333334" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/product_items_layout.xml" value="0.1175925925925926" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/menu-v26/main_menu.xml" value="0.2" />
+        <entry key="..\:/2021/NaogaonSuperCloth/ekart/app/src/main/res/menu/main_menu.xml" value="0.22" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/drawable/nav_about.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_admin_new_orders.xml" value="0.19692307692307692" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_admin_user_products.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_area.xml" value="0.2709205020920502" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_settins.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_spinner.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_status.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/activity_user_order.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/add_category_activity.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/cart_items_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/category_items_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/content_category.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/content_product.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/content_product1.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/dialogcontent1.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/header.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/orders_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/product_items_layout.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/update_product_activity.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/user_order_activity.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/user_order_item_layout.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/layout/user_order_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-adminpanel/ekart/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11979166666666667" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/buttons.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/ic_assessment_black_24dp.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/input_design.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/drawable/vieworder.xml" value="0.21614583333333334" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/activity_cart.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/activity_confirm_final_order.xml" value="0.18" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.15" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.17" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/activity_product_details.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout-sw600dp/content_product.xml" value="0.22" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity__user_order_product.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_about.xml" value="0.18109540636042404" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_admin_add_new_category.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_admin_category.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_cart.xml" value="0.22" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_home.xml" value="0.17" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_product1.xml" value="0.1" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_product_details.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_reset_password.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_search_products.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_settins.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_short_message.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_slide_main.xml" value="0.16" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_status.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_user_0rder_products.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_user_new_orders.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_user_order.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_user_order_product.xml" value="0.1" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activity_user_order_products.xml" value="0.1" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/activitymai.xml" value="0.1" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/cart_items_layout.xml" value="0.22" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/category_items_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/content_category.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/content_product.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/customer_order_message.xml" value="0.2" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/enter_mobile_number.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/orders_layout.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/product_items_layout.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/reset_password.xml" value="0.5" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/reset_phone_verify.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/toolbar.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/update_product_activity.xml" value="0.20364583333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/user_order_layout.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/verify_oto.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/layout/verify_otp.xml" value="0.18" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/menu/activity_main.xml" value="0.10677083333333333" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/menu/attempt_menu.xml" value="0.25" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19" />
+        <entry key="..\:/2021/Papa's Pizza-customer final/ekart/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_admin_add_new_product.xml" value="0.10833333333333334" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_admin_category.xml" value="0.17" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_admin_new_orders.xml" value="0.22" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_admin_user_products.xml" value="0.14" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.25" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_login.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_product_details.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_search_products.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/activity_settins.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/cart_items_layout.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/content.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/header.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/orders_layout.xml" value="0.11574074074074074" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/product_items_layout.xml" value="0.2" />
+        <entry key="..\:/2021/Shopping app/ekart/app/src/main/res/layout/toolbar.xml" value="0.11574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

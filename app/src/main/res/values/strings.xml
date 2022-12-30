@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Papa\'s Pizza</string>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="find_discover_choose_and_buy_anything_online">Inspiring Life By Caring Taste-Bud </string>
+    <string name="category_name">Category Name...</string>
+    <string name="add_product">Add Menu</string>
+    <string name="product_name">Menu Name...</string>
+    <string name="add_category">Add Category</string>
+    <string name="menu_name">Menu Name...</string>
+    <string name="menu_description">Menu Description...</string>
+    <string name="menu_price">Menu Price...</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="categories">Categories</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="cart">Cart</string>
+    <string name="logout">Logout</string>
+    <string name="About">About</string>
+    <string name="about_restaurant">
+		Welcome to our chain Home Kitchen,Papa\'s Pizza. We are pleased to get you on our Home Kitchen,Papa\'s Pizza mobile app. First, take regards from the deepest space of our heart.Then read and find what are our thoughts and deeds. Once you finish reading this message you would have been able to understood what are really meant to inspiring tasty,hot foods together with smart home delivery.\n\n
+		
+		We observed that the foods that are readily aviable in our market lack suitability for good health. To think of our people\'s health, we proceeded to provide a range of menus for Lunch, dinner, celebrations and different festivals as relevant to our Mission "Chain Home Kitchen with clean, nurient and healthy dishes" and Vision "Around and across Bangladesh",  which, we think, contributes to supporting a healthy living in our society.
+
+        Selecting and collecting pure,healthy ingredients from our local and national markets, we prepare menu through a clean, healthy process.\n\n Italian, USA, Mexican, Arabian,Indian and other popular dishes will be served
+       in our different districts gradually. However, at the very beginning now, we serve a limited number of dishes only now at Naogaon Sadar, Naogaon District But it is for the time being and you should not be frustrated. Very soo we will be present to cover more dishes at more districts.
+        This opening moments will be available Italian and Spanish Pizza, Mexican Burger and Indian dishes.\n\n
+
+        Our business philosophy is to analyze criticality between human thursts and food factors and find unfulfilled needs and wants in demands and serve nutrient,tasty and healthy foods that help have huge energy for good living in every day life.
+        we hope customers will provide us with assistance to continue our improvement and the vise-versa.
+
+    we believe you can truly enjoy your life with our everyday dishes.\n\n
+
+    Authority, Papa\'s Pizza \n\n\n\n\n\n\n</string>
+    <string name="about_papa_s_pizza">About Papa\'s Pizza</string>
+    <string name="Cat_name">Catname</string>
+    <string name="Cat_name1">Category</string>
+    <string name="name">CatName</string>
+    <string name="ViewOrder">View Order</string>
+    <string name="your_phone_number">Your Mobile Number</string>
+    <string name="your_name">Your Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="my_orders">My Orders</string>
+    <string name="product_price">Product Price</string>y
+    <string name="product_quantitiy">Product Quantity</string>
+    <string name="product_name_user">Product Name</string>
+    <string name="textview">Spinners</string>
+    <string name="enter_your_string_here">Enter city name</string>
+    <string name="enter_area">Enter Area</string>
+    <string name="enter_city">Enter City</string>
+    <string name="add_city">Add City</string>
+    <string name="add_area">Add Area</string>
+    <string name="add_order_status">Add Order Status</string>
+    <string name="enter_order_status">Enter Order Status</string>
+    <string name="spinner_generator">Spinner Generator</string>
+    <string name="update_status">Update Status</string>
+    <string name="please_write_your_shipment_details">Please write your Shipment Details</string>
+    <string name="your_home_addresss">Your Home Address</string>
+    <string name="update_content_panel">Update Order Status</string>
+    <string name="date_time">Date Time</string>
+    <string name="name_order">" Write Order Status"</string>
+    <string name="address_city">Address,City</string>
+    <string name="show_user_order_product">Show User Order Product</string>
+    <string name="user_name">User Name</string>
+    <string name="product_name2">Product Name</string>
+    <string name="register_page">Not Registered?</string>
+    <string name="phone_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="update_content_panel2">Update Content Panel</string>
+
+    <string name="course">Course</string>
+    <string name="category_name_o">category name</string>
+    <string name="image_url">Image URL</string>
+    <string name="product_name_1">Menu Name</string>
+    <string name="product_description">Menu Description</string>
+    <string name="Product_update">Product Update</string>
+    <string name="product_quantitiy_1">Menu Quantitiy</string>
+    <string name="menu">Menu</string>
+    <string name="order_details">Order Details</string>
+    <string name="wait_30_minutes">wait 30 minutes</string>
+    <string name="write_short_message">Write Short Message</string>
+    <string name="send">SEND</string>
+    <string name="short_message">Short Message</string>
+    <string name="caring_your_tastebud">Caring your tastebud</string>
+    <string name="congratulations_your_final_order_has_been_placed_successfully_soon_it_will_be_verified">Congratulations, Your Final order has been placed successfully. Soon it will be verified</string>
+    <string name="next">Next</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="go_to_menu">Go To Menu</string>
+    <string name="login">Login</string>
+    <string name="enter_mobile">Enter Mobile Number</string>
+    <string name="please_verify_the_otp_sent">Please Verify the OTP sent</string>
+    <string name="resend_otp_again">Resend OTP again</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="didn_t_recieve_the_otp">Didn\'t recieve the OTP ?</string>
+    <string name="phone_number_2">Mobile Number</string>
+    <string name="textview_reset">RESET PASSWORD</string>
+    <string name="write_new_password">Write New Password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="instructions">INSTRUCTIONS\n
+        Please press MENU BUTTON and go to home page where you will get category and menu pages to be pressed to proceed until purchase and order confirmation.</string>
+    <string name="menu_ptice_qty">Menu_Ptice(Tk.)_Qty</string>
+    <string name="order_number">Order Number:</string>
+    <string name="back">Back</string>
+    <string name="check_out">Check Out</string>
+    <string name="already_have_account">Already Have an Account? Login</string>
+    <string name="join">Join</string>
+    <string name="check_for_img">Check for Img</string>
+    <string name="write_mobile_number">Write Mobile Number</string>
+    <string name="city">city</string>
+    <string name="area">Area</string>lde
+    <string name="mode">mode</string>
+    <string name="favorite_person_name">Favorite Person Name</string>
+    <string name="c_info">Check Information</string>
+    <string name="address">Address...</string>
+    <string name="full_name">Full Name...</string>
+    <string name="phone_number2">Phone Number...</string>
+    <string name="update">Update</string>
+    <string name="close">Close</string>
+    <string name="user_name2">user name</string>
+    <string name="total_price">Total Price</string>
+    <string name="product_details">Product Details</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="address_user_order">Address</string>
+    <string name="order_status_user">Order Status:</string>
+    <string name="order_status">Order Status</string>
+    <string name="payment_mode">Payment Mode</string>
+    <string name="save">Save</string>
+    <string name="remember">Remember</string>
+    <string name="delete">Delete</string>
+    <string name="clear">clear</string>
+    <string name="p_mode">P.Mode</string>
+    <string name="product_description2">Product Description</string>
+    <string name="product_name3">Product Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="phone_number3">Phone Number</string>
+    <string name="name3">Name</string>
+
+</resources>

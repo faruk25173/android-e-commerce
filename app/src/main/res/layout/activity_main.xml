@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainimage"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginBottom="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:padding="5dp">
+
+            <Button
+                android:id="@+id/main_join_now_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dp"
+                android:layout_weight="1"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/join"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/main_login_btn"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/login"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="-3dp"
+            android:layout_marginBottom="600dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <ImageView
+                    android:id="@+id/app_logo"
+                    android:layout_width="260dp"
+                    android:layout_height="201dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="-483dp"
+                    android:layout_gravity="center_horizontal"
+                    android:contentDescription="@string/todo"
+                    android:src="@drawable/ppmediumlogo"
+                    tools:ignore="ImageContrastCheck" />
+
+                <TextView
+                    android:id="@+id/app_slogan"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+
+                    android:layout_marginTop="500dp"
+                    android:text="@string/find_discover_choose_and_buy_anything_online"
+                    android:textAlignment="center"
+                    android:textColor="@color/colorSecondary"
+                    android:textSize="18sp"
+                    android:textStyle="bold|italic" />
+
+            </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_500">#FF2D74</color>
+    <color name="colorAccent">#FFBB86FC</color>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF3700B3</color>
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="colorOnSecondary">#0265FF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#d902ee</color>
+    <color name="gull">#CE36FF</color>
+    <color name="violet">#A211E3</color>
+    <color name="paste">#cbf6db</color>
+    <color name="greenish">#9bc472</color>
+    <color name="scarlet">#FF705D</color>
+    <color name="aqua">#16acea</color>
+    <color name="blue">#4203c9</color>
+    <color name="pink"> #f57e7e</color>
+    <color name="bluish"> #4d5198</color>
+    <color name="black">#000B0C20</color>
+</resources>
